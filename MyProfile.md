@@ -46,20 +46,20 @@
 
 ## 📊 GitHub Stats
 
-<!-- Neon Rating Badge -->
+<!-- Futuristic Neon Badge Instead of Grade -->
 <p align="center">
   <img src="https://img.shields.io/badge/Rating-🔥%20VERY%20GOOD-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
-<!-- Stats & Languages -->
+<!-- Stats & Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan25798&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=FFFFFF" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan25798&layout=compact&langs_count=10&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="170" />
 </p>
 
-<!-- Custom Fake Streak Card (self-hosted) -->
+<!-- Custom Fake Streak Card (self-hosted - no labels) -->
 <p align="center">
-  <!-- Replace the URL below with your deployed Vercel streak app link -->
+  <!-- Replace the URL with your deployed Vercel streak app -->
   <img src="https://aryan-streak.vercel.app?theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00F0FF" height="180" />
 </p>
 
