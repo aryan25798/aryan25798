@@ -1,75 +1,104 @@
-<!-- Futuristic Cyber-Minimal Coding Banner (CDN) -->
+<!-- Hero Banner: Futuristic 3D Cyberpunk City -->
 <p align="center">
-  <img src="https://giphy.com/gifs/minimal-cyberpunk-creative-coding-5YgvUvKvDiQVUdZxLX" width="100%" alt="Minimal Cyberpunk Coding Banner">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3YzcmxxenAycjBuZ3lhdHVqMXF4dW54dWlmc3V1eG9sbnY5enV5NyZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="3D Cyberpunk City">
 </p>
 
-<!-- Slick Typing Animation -->
+<!-- Glitch Text Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=0EF5F6&center=true&vCenter=true&width=700&lines=Hey,+I’m+Aryan+👾;Crafting+Futuristic+Code;Linux+Systems+Master;AI%2FML+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=>+Booting+Aryan's+Profile...;>+Initializing+Full-Stack+Modules;>+Loading+Linux+System+Tools;>+Deploying+AI/ML+Models;>+Welcome+to+the+Future" alt="Glitch Typing Intro" />
 </p>
 
-<!-- Neon Social Badges -->
+<!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/aryan25798"><img src="https://img.shields.io/badge/GitHub-aryan25798-0D1117?style=for-the-badge&logo=github&logoColor=0EF5F6"></a>
-  <a href="mailto:22051844@kiit.ac.in"><img src="https://img.shields.io/badge/Email-22051844%40kiit.ac.in-0D1117?style=for-the-badge&logo=gmail&logoColor=F50EF5"></a>
-  <a href="https://www.linkedin.com/in/aryan-a506b8288/"><img src="https://img.shields.io/badge/LinkedIn-Aryan-0D1117?style=for-the-badge&logo=linkedin&logoColor=0EF550"></a>
-</p>
-
----
-
-## About Me
-Developer by day, futurist by design. I create interfaces that are as functional as they are stylish:
-
-- **Stack**: React · Node.js · Linux internals · AI/ML  
-- **Focus**: Elegant UI + lightning-fast performance  
-- **Vision**: Code that looks like it belongs in a sci-fi film
-
----
-
-## Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,linux,docker,git,tensorflow,pytorch&perline=7" />
+  <a href="https://github.com/aryan25798"><img src="https://img.shields.io/badge/GitHub-aryan25798-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"></a>
+  <a href="mailto:22051844@kiit.ac.in"><img src="https://img.shields.io/badge/Email-22051844%40kiit.ac.in-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF"></a>
+  <a href="https://www.linkedin.com/in/aryan-a506b8288/"><img src="https://img.shields.io/badge/LinkedIn-Aryan-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF85"></a>
 </p>
 
 ---
 
-## Highlight Projects
-| Project                  | Description                              | Stack                 |
-|--------------------------|-------------------------------------------|-----------------------|
-| **MiniShell**            | Custom shell with piping & job control    | C · Linux syscalls    |
-| **Hospital Management**  | Secure MERN app for patient workflows     | React · Node · JWT    |
-| **AI Summarizer**        | REST APIs for summarization               | Hugging Face · Flask  |
-| **Krishi Veda**          | AI-based chatbot for agri guidance        | React · Python NLP    |
+## 🧠 About Me
+> *"I don't just write code — I engineer the future."*
+
+- **Full-Stack Developer**: MERN + TS + REST/GraphQL  
+- **Systems Engineer**: Linux internals, C, process control  
+- **AI/ML Builder**: NLP, HuggingFace, TensorFlow, PyTorch  
+- **Obsessed**: Performance tuning + sexy UI/UX
 
 ---
 
-## GitHub Bling
+## ⚙ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan25798&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EF5F6&icon_color=F50EF5" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan25798&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0EF5F6" height="160">
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan25798&theme=darkened&no-frame=true&row=1&column=5&margin-w=8&margin-h=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,mongodb,java,linux,docker,git,tensorflow,pytorch&perline=8" />
 </p>
 
 ---
 
-## Neon Glitch Spotlight
+## 🚀 Featured Projects
+| Name                     | Description                                   | Tech |
+|--------------------------|-----------------------------------------------|------|
+| **MiniShell**            | Custom Linux shell with piping & redirection  | C, Linux |
+| **AI Summarizer**        | Extractive + abstractive APIs                  | Python, Flask, HuggingFace |
+| **Hospital Management**  | MERN stack patient/doctor portal               | MERN, JWT |
+| **Krishi Veda**          | AI farming chatbot                             | React, NLP |
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Neon Rating Badge -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z1NzR4ZzB0Z2R0b3M3a3h3MWtxbmJqazFhdnRib2c5dm0yN2Y4bSZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Neon Glitch Animation">
+  <img src="https://img.shields.io/badge/Rating-🔥%20VERY%20GOOD-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
+<!-- Stats & Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan25798&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F0FF&icon_color=FF00FF&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan25798&layout=compact&langs_count=10&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="170" />
+</p>
+
+<!-- Custom Fake Streak Card (self-hosted) -->
+<p align="center">
+  <!-- Replace the URL below with your deployed Vercel streak app link -->
+  <img src="https://aryan-streak.vercel.app?theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00F0FF" height="180" />
+</p>
+
+<!-- Trophy Showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan25798&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+<!-- Extra Cool Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Building%20%F0%9F%9A%80-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Futuristic%20Full%20Stack-FF00FF?style=for-the-badge&logo=rocket&logoColor=black" />
 </p>
 
 ---
 
-## Connect
-- **Email:** 22051844@kiit.ac.in  
-- **LinkedIn:** [Aryan](https://www.linkedin.com/in/aryan-a506b8288/)  
-- **Portfolio:** [View Here](https://portfolio-master-one-sooty.vercel.app/)
+## 📡 Currently Working On
+- 🔭 Scaling AI-powered summarizers for production  
+- ⚡ Optimizing shell performance & command parsing  
+- 🌱 Learning advanced Kubernetes + CI/CD
+
+---
+
+## 📡 Contact Me
+
+<p align="center">
+  <a href="mailto:22051844@kiit.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-22051844%40kiit.ac.in-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-a506b8288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-master-one-sooty.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Here-0D1117?style=for-the-badge&logo=firefox&logoColor=00FF85" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryan25798.aryan25798&left_color=0D1117&right_color=0EF5F6" alt="visitors">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Let's+Collaborate!;Reach+Out+For+Projects;Always+Open+to+Innovations" alt="Typing Animation"/>
 </p>
